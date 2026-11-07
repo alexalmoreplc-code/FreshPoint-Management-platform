@@ -1,0 +1,1 @@
+# FreshPoint-Management-platform
